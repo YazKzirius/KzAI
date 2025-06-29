@@ -1,6 +1,6 @@
 # kzai
 
-A generative AI LLM for scientific and medical research for STEM students. Enables users to upload notes and structured documents and query specific information via natural language understanding. This will be built to merge my skills in mobile development with AI research and as a tguide STEM students in studies.
+A generative AI LLM for scientific and medical research for STEM students. Enables users to upload notes and structured documents and query specific information via natural language understanding. This will be built to merge my skills in mobile development with AI research and as a guide STEM students in studies.
 
 ## Getting Started
 
